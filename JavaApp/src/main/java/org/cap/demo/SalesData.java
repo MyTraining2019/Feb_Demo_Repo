@@ -14,6 +14,7 @@ public class SalesData {
 	
 	public void printMessage(){
 		System.out.println("Greetings to All!");
+		System.out.println("Welcome To Sales Report!");
 	}
 
 }
