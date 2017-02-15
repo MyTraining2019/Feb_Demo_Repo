@@ -11,5 +11,9 @@ public class SalesData {
 		for(int i=0;i<myArr.length;i++)
 			System.out.println(myArr[i]);
 	}
+	
+	public void printMessage(){
+		System.out.println("Greetings to All!");
+	}
 
 }
